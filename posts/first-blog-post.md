@@ -15,3 +15,5 @@ Hello, world!
 _underline_
 
 **bold**
+![This is wechat img 10](../static/WechatIMG10.jpg)
+![This is wechat img 11](../static/WechatIMG11.jpg)
