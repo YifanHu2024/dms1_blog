@@ -8,7 +8,7 @@ This is my first post!  Here are the photos from the scavenger hunt:
 
 Hello, world!
 
-# This is h1
+# This is our photos
 
 ## This is h2
 
