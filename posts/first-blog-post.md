@@ -15,7 +15,10 @@ Hello, world!
 _underline_
 
 **bold**
-![This is wechat img 10](../static/WechatIMG10.jpg)
-![This is wechat img 11](../static/WechatIMG11.jpg)
-![This is wechat img 11](../static/WechatIMG12.jpg)
-![This is wechat img 11](../static/WechatIMG13.jpg)
+
+![a door for the condemned](/w01s1/WechatIMG9.jpg)
+![a curtain of roots,deliverd by a winged visitor](../static/WechatIMG10.jpg)
+![a wide machine,dispensing beverages from a far away land](/w01s1/WechatIMG11.jpg)
+![a study space fit for a sith lord](/w01s1/WechatIMG12.jpg)
+![The disembodied hands of a great ape](/w01s1/WechatIMG13.jpg)
+
