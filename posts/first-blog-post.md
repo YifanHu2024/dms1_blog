@@ -21,3 +21,6 @@ _underline_
 ![a wide machine,dispensing beverages from a far away land](../static/w01s1/WechatIMG11.jpg)
 ![a study space fit for a sith lord](../static/w01s1/WechatIMG12.jpg)
 ![The disembodied hands of a great ape](../static/w01s1/WechatIMG13.jpg)
+
+## First Demo Video
+[My first vlog](https://youtu.be/xMiDmY5Umks)
