@@ -1,3 +1,12 @@
+---
+title: This is my second blog post!
+published_at: 2022-11-04T15:00:00.000Z
+snippet: This is an excerpt of my 2 blog post.
+disable_html_sanitization: true
+---
+
+
+
 disable_html_sanitization: true
 ## Second Demo Video
 [My second volg](https://youtu.be/iHrjEJvdjRI?si=eGBB1VIZT7P-_10j)
