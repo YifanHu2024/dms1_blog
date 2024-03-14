@@ -5,6 +5,8 @@ snippet: This is an excerpt of my first blog post.
 disable_html_sanitization: true
 ---
 
+Hello Yifan
+
 This is my first post!  Here are the photos from the scavenger hunt:
 
 Hello, world!
