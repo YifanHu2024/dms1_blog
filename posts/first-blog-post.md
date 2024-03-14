@@ -23,8 +23,7 @@ _underline_
 ![a curtain of roots,deliverd by a winged visitor](../static/WechatIMG10.jpg)
 ![a wide machine,dispensing beverages from a far away land](../static/w01s1/WechatIMG11.jpg)
 ![a study space fit for a sith lord](../static/w01s1/WechatIMG12.jpg)
-![The disembodied hands of a great ape](../static/w01s1/WechatIMG13.jpg)
-
+r
 ## First Demo Video
 [My first vlog](https://youtu.be/xMiDmY5Umks)
 
