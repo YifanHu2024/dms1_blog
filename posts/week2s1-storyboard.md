@@ -9,6 +9,4 @@ disable_html_sanitization: true
 
 ## description
 
-At the beginning, our group had planned to take photos of people, and I was assigned the role of an actor to pose in different scenes. However, we later realized that we couldn't proceed with this plan, so we decided to abandon the idea.
-
-After that, we decided to focus on rocks as our subject and theme, and I provided some materials for the scenes. We created several storyboards by combining the rocks and different settings. I worked with the group to conceptualize how to move the camera and provided some ideas for the images. I also wrote some notes to help clarify the vision for our project.
+I will be shooting a scene that is about a man's loneliness, placing him in different scenes, but the picture character is the only one.
