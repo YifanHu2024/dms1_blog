@@ -1,7 +1,7 @@
 --
-title: This is my demo blog post!
+title: This is my final video!
 published_at: 2022-11-04T15:00:00.000Z
-snippet: This is an excerpt of my somethig else blog post.
+snippet: This is the video of my assignment and description.
 disable_html_sanitization: true
 ---
 ## assignment 1 final cut

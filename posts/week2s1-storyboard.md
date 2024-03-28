@@ -1,7 +1,7 @@
 ---
-title: This is my second blog post!
+title: This is my storyboard!
 published_at: 2022-11-04
-snippet: This is an excerpt of my storyboard.
+snippet: This is the picture of my storyboard.
 disable_html_sanitization: true
 ---
 ## storyboard

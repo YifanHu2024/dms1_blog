@@ -1,7 +1,7 @@
 ---
-title: This is my second blog post!
+title: This is my demo!
 published_at: 2022-11-04
-snippet: This is an excerpt of my 2 blog post.
+snippet: This is a link of my domo.
 disable_html_sanitization: true
 ---
 
