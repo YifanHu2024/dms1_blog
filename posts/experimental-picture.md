@@ -5,4 +5,4 @@ snippet: This is the link of my video.
 disable_html_sanitization: true
 ---
 
-1[this is a file](../experimental/Screenshot%202024-04-20%20at%2010.24.12 am.png)
+1[this is a file](../experimental/experimental%20blog.png)
