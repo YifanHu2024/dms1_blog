@@ -6,7 +6,7 @@ disable_html_sanitization: true
 ---
 ## mind map
 
-![this is my mind map](../static/mind%20map/4.16%20mind%20map.png)
+![this is my mind map](../mind%20map/4.16%20mind%20map.png)
 
 ## description
 

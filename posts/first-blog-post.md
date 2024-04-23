@@ -19,10 +19,10 @@ _underline_
 
 **bold**
 
-![a door for the condemned](../static/w01s1/WechatIMG9.jpg)
-![a curtain of roots,deliverd by a winged visitor](../static/WechatIMG10.jpg)
-![a wide machine,dispensing beverages from a far away land](../static/w01s1/WechatIMG11.jpg)
-![a study space fit for a sith lord](../static/w01s1/WechatIMG12.jpg)
+![a door for the condemned](../w01s1/WechatIMG9.jpg)
+![a curtain of roots,deliverd by a winged visitor](../WechatIMG10.jpg)
+![a wide machine,dispensing beverages from a far away land](../w01s1/WechatIMG11.jpg)
+![a study space fit for a sith lord](../w01s1/WechatIMG12.jpg)
 r
 ## First Demo Video
 [My first vlog](https://youtu.be/xMiDmY5Umks)

@@ -6,4 +6,4 @@ disable_html_sanitization: true
 ---
 ## black square
 
-![work-of-class](../static/blacksquare/work%20of%20ai.png)
+![work-of-class](../blacksquare/work%20of%20ai.png)

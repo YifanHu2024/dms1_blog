@@ -7,9 +7,9 @@ disable_html_sanitization: true
 
 ## my icons
 
-![origin icons](../static/18-icons/黑色%201.png)
-![green icons](../static/18-icons/蓝色%203.png)
-![blue icons](../static/18-icons/绿色%202.png)
+![origin icons](../18-icons/黑色%201.png)
+![green icons](../18-icons/蓝色%203.png)
+![blue icons](../18-icons/绿色%202.png)
 
 ## description
 
